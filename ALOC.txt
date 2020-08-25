@@ -1,2 +1,1 @@
-This is Version 3 of ALOC.
-stashing it
+This is Version 1 of ALOC
