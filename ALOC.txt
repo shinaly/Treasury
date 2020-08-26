@@ -1,2 +1,7 @@
 This is Version 1 of ALOC
+<<<<<<< HEAD
 ge-new
+=======
+ge-new 
+another change v2
+>>>>>>> ge-new
