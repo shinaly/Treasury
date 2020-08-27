@@ -1,2 +1,2 @@
 This is Version 1 of ALOC
-ge-new V2
+ALOC V2
